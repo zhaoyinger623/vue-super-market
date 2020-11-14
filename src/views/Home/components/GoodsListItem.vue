@@ -77,7 +77,7 @@
           height: 14px;
           background-size: 100% 100%;
           background: url('~assets/img/detail/detail_bottom.png') 0 2px/cover no-repeat;
-          display: inline-block; //
+          display: inline-block;
         }
       }
     }
